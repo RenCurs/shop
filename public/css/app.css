@@ -1,0 +1,27 @@
+.user-menu
+{
+    left:auto;
+    right:auto;
+}
+
+.wrap-filter
+{
+    margin-top: 15px;
+    padding: 5px;
+    box-shadow: 0px 0px 2px 0px;
+    border-radius: 5px;
+}
+
+#select_cell .select2-container
+{
+    width: 130px !important;
+}
+
+.wrap-image
+{
+    width: 200px;
+}
+
+.body-product a:not(:last-child):after {
+    content: ', ';
+  }
